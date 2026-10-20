@@ -61,7 +61,7 @@ Haiku용으로 따로 구현한 프로그램입니다. Fliqlo 제작사가 만�
 
 ## AI 고지
 
-Fliqlo for RenkuOS는 AI 코딩 도구(Anthropic의 Claude)의 도움을 받아 개발했습니다.
+Fliqlo for RenkuOS는 AI 코딩 도구(Anthropic의 Claude)의 도움을 받아 개발되었습니다.
 
 ## 라이선스
 
