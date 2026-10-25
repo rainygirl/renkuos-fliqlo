@@ -2,7 +2,7 @@
 
 **English** | [日本語](README.ja.md) | [한국어](README.ko.md)
 
-A flip clock screen saver for Haiku and RenkuOS, modelled on
+A flip clock screen saver for RenkuOS (HaikuOS), modelled on
 [Fliqlo](https://fliqlo.com/): two dark cards on black, hours and minutes in
 tall condensed digits, and the top half of a card flips down whenever its
 value changes. Runs on 32-bit x86 (x86_gcc2), x86_64 and arm64.

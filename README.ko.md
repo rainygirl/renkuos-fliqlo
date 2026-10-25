@@ -2,7 +2,7 @@
 
 [English](README.md) | [日本語](README.ja.md) | **한국어**
 
-[Fliqlo](https://fliqlo.com/)를 본뜬 Haiku/RenkuOS용 플립 시계 스크린세이버입니다.
+[Fliqlo](https://fliqlo.com/)를 본뜬 RenkuOS (HaikuOS)용 플립 시계 스크린세이버입니다.
 검은 바탕에 어두운 카드 두 장이 시와 분을 길쭉하고 굵은 숫자로 보여 주고, 값이
 바뀔 때마다 카드 위쪽 절반이 아래로 넘어갑니다. 32비트 x86(x86_gcc2), x86_64,
 arm64에서 동작합니다.

@@ -2,7 +2,7 @@
 
 [English](README.md) | **日本語** | [한국어](README.ko.md)
 
-[Fliqlo](https://fliqlo.com/) を手本にした Haiku/RenkuOS 用のフリップ時計スクリーン
+[Fliqlo](https://fliqlo.com/) を手本にした RenkuOS (HaikuOS) 用のフリップ時計スクリーン
 セーバーです。黒い背景に暗いカードが 2 枚並び、時と分を縦長の太い数字で表示します。
 値が変わるたびにカードの上半分が下へめくれます。32 ビット x86 (x86_gcc2)、x86_64、
 arm64 で動作します。
