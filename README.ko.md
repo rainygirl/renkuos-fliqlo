@@ -59,9 +59,10 @@ Docker가 있는 작업용 머신에서는 `tools/cross-build.sh all`로 `dist/x
 Haiku용으로 따로 구현한 프로그램입니다. Fliqlo 제작사가 만들거나 승인한 것이 아니며
 관계도 없습니다. Fliqlo의 코드나 그림은 쓰지 않았습니다.
 
-## AI 고지
+## AI 사용 고지
 
-Fliqlo for RenkuOS는 AI 코딩 도구(Anthropic의 Claude)의 도움을 받아 개발되었습니다.
+Fliqlo for RenkuOS의 일부는 AI 코딩 도구(Anthropic Claude)의 도움을 받아 개발했습니다.
+모든 코드는 작성자가 검토하고 테스트했습니다.
 
 ## 라이선스
 

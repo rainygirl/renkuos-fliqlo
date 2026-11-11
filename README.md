@@ -62,8 +62,9 @@ by or connected to the makers of Fliqlo; no Fliqlo code or artwork is used.
 
 ## AI disclosure
 
-Fliqlo for RenkuOS was developed with the assistance of AI coding tools
-(Anthropic's Claude).
+Parts of Fliqlo for RenkuOS were developed with the assistance of AI coding
+tools (Anthropic's Claude). All code has been reviewed and tested by the
+author.
 
 ## License
 

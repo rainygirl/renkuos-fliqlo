@@ -64,8 +64,8 @@ Haiku 向けに独自に実装したものです。Fliqlo の制作者が作っ�
 
 ## AI の利用について
 
-Fliqlo for RenkuOS は AI コーディングツール (Anthropic の Claude) の支援を受けて
-開発しました。
+Fliqlo for RenkuOS の一部は AI コーディングツール (Anthropic の Claude) の支援を受けて開発しました。
+すべてのコードは作者がレビューし、テストしています。
 
 ## ライセンス
 
